@@ -1,3 +1,2 @@
 # uni
-a collection of school projects and assignments
-projects, assignments and materials created during your studies at FIIT STU
+A collection of projects, assignments, and materials created during studies at FIIT STU
